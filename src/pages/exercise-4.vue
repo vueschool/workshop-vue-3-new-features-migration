@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import ModalOverlay from "@/components/completed/ModalOverlay.vue";
+import ModalOverlay from "@/completed/components/ModalOverlay.vue";
 export default {
   components: { ModalOverlay },
 };

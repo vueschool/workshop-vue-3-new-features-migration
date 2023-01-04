@@ -18,7 +18,7 @@
 
 <script>
 // Change this import to your newly created component
-import MySelectList from "@/components/completed/MySelectList.vue";
+import MySelectList from "@/completed/components/MySelectList.vue";
 export default {
   components: { MySelectList },
   data() {

@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import ColorPreview from "@/components/completed/ColorPreview.vue";
+import ColorPreview from "@/completed/components/ColorPreview.vue";
 export default {
   components: { ColorPreview },
 };
