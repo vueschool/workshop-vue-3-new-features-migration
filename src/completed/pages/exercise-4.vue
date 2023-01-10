@@ -1,6 +1,7 @@
 <template>
   <div>
     <ExerciseHeader n="4" />
+    <!-- This is the component you'll create -->
     <ModalOverlay>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam hic enim
@@ -12,7 +13,8 @@
 </template>
 
 <script>
-import ModalOverlay from "@/components/ModalOverlay.vue";
+// Change this import to your newly created component
+import ModalOverlay from "../components/ModalOverlay.vue";
 export default {
   components: { ModalOverlay },
 };
