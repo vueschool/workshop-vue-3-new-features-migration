@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import MySelectList from "@/components/MySelectList.vue";
+import MySelectList from "@/completed/components/MySelectList.vue";
 export default {
   components: { MySelectList },
   data() {
